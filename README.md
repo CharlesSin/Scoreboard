@@ -6,6 +6,10 @@ A React app simulating a **Live Football World Cup Scoreboard**⚽ that shows ma
 
 [scoreboard](https://charles-socreboard.netlify.app)
 
+## Screenshot
+
+![alt cover](https://github.com/CharlesSin/Scoreboard/blob/master/public/cover.jpg)
+
 ## Tech stack 💾
 
 - React (with Vite)
